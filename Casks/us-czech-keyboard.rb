@@ -1,14 +1,14 @@
-cask "U.S.-Czech-keyboard" do
+cask "us-czech-keyboard" do
   version "1.0.0"
-  sha256 "e3ca59bb1082c70af2b7765b3aa25f6190c656443eef83b196771be9d5fb29d0"
+  sha256 "6d37106173f4cc8133b5b4334e41bfddc6879d42785b773d7025413e470f266a"
 
-  url "https://github.com/hammafataka/EngCzech-keyboard/archive/refs/tags/1.0.0.zip"
+  url "https://github.com/hammafataka/EngCzech-keyboard/releases/download/1.0.0/U.S.-Czech.bundle.zip"
   name "Hamma's English-Czech Keyboard"
   desc "Hybrid keyboard layout for coding and Czech text"
   homepage "https://github.com/hammafataka/EngCzech-keyboard"
 
 
-  keyboard_layout "EngCzech.keylayout"
+  keyboard_layout "U.S.-Czech.bundle"
   # keyboard_layout "EngCzech.icns"
   caveats <<~EOS
     To enable the keyboard layout:
