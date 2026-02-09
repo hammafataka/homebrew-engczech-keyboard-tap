@@ -1,6 +1,6 @@
 cask "my-cz-keyboard" do
   version "1.0.0"
-  sha256 "YOUR_FILE_SHA256_HASH_HERE"
+  sha256 "e3ca59bb1082c70af2b7765b3aa25f6190c656443eef83b196771be9d5fb29d0"
 
   url "https://github.com/hammafataka/EngCzech-keyboard/archive/refs/tags/1.0.0.zip"
   name "Hamma's English-Czech Keyboard"
