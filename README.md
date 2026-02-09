@@ -72,7 +72,6 @@ The base layout is standard **US English**. To type Czech characters, hold the *
 | **ý**             | `Option` + `y` |
 | **ž**             | `Option` + `z` |
 
-*(Note: Verify these mappings against your specific layout configuration!)*
 
 ## Previews
 
@@ -115,5 +114,6 @@ brew uninstall us-czech-keyboard
 Then go to **System Settings > Keyboard > Input Sources** and remove the entry.
 
 ---
+
 
 **Enjoy coding efficiently!** 🚀
