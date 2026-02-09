@@ -1,4 +1,4 @@
-cask "my-cz-keyboard" do
+cask "U.S.-Czech-keyboard" do
   version "1.0.0"
   sha256 "e3ca59bb1082c70af2b7765b3aa25f6190c656443eef83b196771be9d5fb29d0"
 
