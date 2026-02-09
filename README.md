@@ -46,8 +46,8 @@ After installing via Homebrew, macOS requires a few manual steps to register the
 2. Open **System Settings** → **Keyboard**.
 3. Click **Edit...** next to "Input Sources".
 4. Click the **+ (Plus)** button in the bottom left.
-5. Scroll down to **Others** (or search for "English").
-6. Select **Hamma's English-Czech Keyboard** and click **Add**.
+5. Scroll down to **English** (or search for "U.S. - Czech").
+6. Select **U.S. - Czech** and click **Add**.
 7. (Optional) Remove your old US or Czech layouts to avoid confusion.
 
 ## ⌨️ Cheatsheet / How to Use
@@ -78,19 +78,19 @@ The base layout is standard **US English**. To type Czech characters, hold the *
 ### Layout without key
 
 <p align="center">
-  <img src="assets/normal.png" width="596" alt="US-Czech Icon">
+  <img src="assets/normal.png" width="596" alt="normal.png">
 </p>
 
 ### Layout with option key
 
 <p align="center">
-  <img src="assets/option.png" width="595" alt="US-Czech Icon">
+  <img src="assets/option.png" width="595" alt="option.png">
 </p>
 
 ### Layout with shift+option key for capitalizing
 
 <p align="center">
-  <img src="assets/shift+option.png" width="598" alt="US-Czech Icon">
+  <img src="assets/shift+option.png" width="598" alt="shift+option.png">
 </p>
 
 ## 📦 Manual Installation
@@ -117,3 +117,4 @@ Then go to **System Settings > Keyboard > Input Sources** and remove the entry.
 
 
 **Enjoy coding efficiently!** 🚀
+
