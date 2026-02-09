@@ -2,7 +2,7 @@ cask "us-czech-keyboard" do
   version "1.0.0"
   sha256 "6d37106173f4cc8133b5b4334e41bfddc6879d42785b773d7025413e470f266a"
 
-  url "https://github.com/hammafataka/homebrew-EngCzech-keyboard-tap/releases/download/1.0.0/U.S.-Czech.bundle.zip"
+  url "https://github.com/hammafataka/homebrew-engczech-keyboard/releases/download/1.0.0/U.S.-Czech.bundle.zip"
   name "Hamma's English-Czech Keyboard"
   desc "Hybrid keyboard layout for coding and Czech text"
   homepage "https://github.com/hammafataka/homebrew-engczech-keyboard"
